@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Albert-0723
-- 👀 I am interested in technology and innovation.
-- 🌱 I am currently studying machine learning and data science.
-- 💞️ Hope to cooperate on open source projects and technical communities.
-- 📫 How to contact me [albert@powtron.com.tw]
+- 👀 Passionate about technology and innovation, I’m always on the lookout for the next big thing.
+- 🌱 Currently diving deep into the fascinating worlds of machine learning and data science.
+- 💞️ Excited to collaborate on open source projects and engage with vibrant technical communities.
+- 📫 Feel free to reach out to me at [albert@powtron.com.tw]
 - 😄 Pronoun: he/him
 - ⚡ Fun fact: aap.tron - it power you!
 
